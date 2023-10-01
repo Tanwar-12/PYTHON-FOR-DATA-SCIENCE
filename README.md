@@ -9,6 +9,6 @@ Welcome to my '100 Days of Python' challenge repository! Here, you can track my 
 - **Daily Jupyter Notebooks**: 
 Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These notebooks encompass code snippets, thorough explanations, and engaging exercises pertaining to the Python topics I'll be delving into on that particular day.
 ---
-Feel free to customize the README and repository structure to match your preferences and the specific topics you'll cover in your 100 Days of Python challenge. You can also replace the placeholders with actual links to your daily progress and projects as you create them. Good luck with your Python learning journey!
+ Good luck with your Python learning journey!
 
 HAPPY CODING 😊
