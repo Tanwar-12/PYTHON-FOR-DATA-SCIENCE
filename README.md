@@ -8,6 +8,18 @@ Welcome to my '100 Days of Python' challenge repository! Here, you can track my 
 
 - **Daily Jupyter Notebooks**: 
 Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These notebooks encompass code snippets, thorough explanations, and engaging exercises pertaining to the Python topics I'll be delving into on that particular day.
+
+## Daily Progress
+
+- [Day 1](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%201%20-%20Basics%20_of%20_Python.ipynb)
+- [Day 2](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day2%20-%20Operators%20in%20Python..ipynb)
+- [Day 3](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%203%20-%20Python%20IF%20Else%20.ipynb)
+- [Day 4](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%204%20-Functions.ipynb)
+- [Day 5](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%205-%20Loops.ipynb)
+- 
+
+
+
 ---
  Good luck with your Python learning journey!
 
