@@ -19,6 +19,8 @@ Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These n
 - [Day 6](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%206%20-%20Array.ipynb)
 - [Day 7](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%207-%20Classes%20%26%20Objects.ipynb)
 - [Day 8](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%207-%20Inheritance.ipynb)
+- [Day 9](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%209-%20Polymorphism.ipynb)
+- [Day 10]()
 
 
 
