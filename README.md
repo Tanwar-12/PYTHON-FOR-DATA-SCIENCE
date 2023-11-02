@@ -30,6 +30,7 @@ Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These n
 - [Day 17](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2017%20-%20Python%20Modules%20(Numpy).ipynb)
 - [Day 18](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2018%20-%20Numpy%20Creating%20Arrays.ipynb)
 - [Day 19](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2019%20-%20NumPy%20Array%20Indexing.ipynb)
+- [Day 20](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2020%20-%20NumPy%20Array%20Slicing.ipynb)
 
 
 
