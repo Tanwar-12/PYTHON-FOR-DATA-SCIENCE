@@ -33,6 +33,7 @@ Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These n
 - [Day 20](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2020%20-%20NumPy%20Array%20Slicing.ipynb)
 - [Day 21](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2021%20-%20Numpy%20Data%20Types.ipynb)
   [Day 22](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2022%20-%20NumPy%20Array%20Copy%20vs%20View.ipynb)
+  [Day 23](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2023%20-%20Numpy%20Shape.ipynb)
 
 
 
