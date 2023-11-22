@@ -37,6 +37,7 @@ Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These n
   [Day 24](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2024%20-%20NumPy%20Array%20Reshaping.ipynb)
   [Day 25](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2025%20-%20NumPy%20Array%20Iterating.ipynb)
   [Day 26](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2026%20-%20NumPy%20Joining%20Array.ipynb)
+  [Day 28](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2028%20-%20Numpy%20Array%20Search.ipynb)
 
 
 
