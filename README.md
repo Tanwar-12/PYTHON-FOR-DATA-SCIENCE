@@ -40,6 +40,8 @@ Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These n
   [Day 28](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2028%20-%20Numpy%20Array%20Search.ipynb)
   [Day 29](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2029%20-%20Numpy%20Array%20Sort.ipynb)
   [Day 30](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2030%20-%20NumPy%20Filter%20Array.ipynb)
+  [Day 31](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2031%20-%20NumPy%20Random.ipynb)
+  [Day 32](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2032-Random%20Data%20Distribution.ipynb)
 
 
 
