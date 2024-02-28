@@ -1,5 +1,7 @@
 # 100-Days-of-Python
-![100-days-of-code](https://user-images.githubusercontent.com/98851253/155425637-9ac7250e-52a3-429a-a679-ac619f5ff6ea.gif)
+
+![100 DAYS OF PYTHON](https://github.com/Tanwar-12/100-Days-of-Python-/assets/110081008/aadd21e9-896b-4ab2-bb9d-14acf534e66b)
+
 
 Welcome to my '100 Days of Python' challenge repository! Here, you can track my daily progress as I dive into the world of Python, starting from ground zero. Every day, I will engage with diverse Python concepts, undertake projects, and solve exercises. My journey of learning Python will unfold before you, day by day, as I document my experiences and progress.
 
