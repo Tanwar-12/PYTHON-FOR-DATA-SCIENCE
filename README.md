@@ -43,6 +43,7 @@ Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These n
   [Day 31](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2031%20-%20NumPy%20Random.ipynb)
   [Day 32](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2032-Random%20Data%20Distribution.ipynb)
   [Day 33](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2033%20-%20Random%20Permutations.ipynb)
+  [Day 34](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2034%20-%20Seaborn.ipynb)
 
 
 
