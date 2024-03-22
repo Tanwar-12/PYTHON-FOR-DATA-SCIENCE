@@ -47,6 +47,7 @@ Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These n
   [Day 34](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2034%20-%20Seaborn.ipynb)
   [Day 35](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2035-%20Normal%20(Gaussian)%20Distribution.ipynb)
   [Day 36](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2036%20-%20Binomial%20Distribution.ipynb)
+  [Day 37](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day-37%20Poisson%20Distribution%20.ipynb)
 
 
 
