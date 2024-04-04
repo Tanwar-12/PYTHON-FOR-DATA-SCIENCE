@@ -59,6 +59,6 @@
 
 
 ---
- Good luck with your Python learning journey!
+𝙶𝚘𝚘𝚍 𝚕𝚞𝚌𝚔 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞𝚛 𝙿𝚢𝚝𝚑𝚘𝚗 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚓𝚘𝚞𝚛𝚗𝚎𝚢! 
 
-HAPPY CODING 😊
+𝙷𝙰𝙿𝙿𝚈 𝙲𝙾𝙳𝙸𝙽𝙶  😊
