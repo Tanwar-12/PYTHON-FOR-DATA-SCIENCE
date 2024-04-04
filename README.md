@@ -48,6 +48,14 @@ Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These n
   [Day 35](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2035-%20Normal%20(Gaussian)%20Distribution.ipynb)
   [Day 36](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2036%20-%20Binomial%20Distribution.ipynb)
   [Day 37](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day-37%20Poisson%20Distribution%20.ipynb)
+  [Day 38](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%20-38%20%20Uniform%20Distribution%20.ipynb)
+  [Day 39](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day-39%20Logistic%20Distribution.ipynb)
+  [Day 40](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%20-%2040%20%20Multinomial%20Distribution.ipynb)
+  [Day 41](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%20-%2041%20Exponential%20Distribution%20.ipynb)
+  [Day 42](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%20-%2042%20Chi%20Square%20Distribution.ipynb)
+  [Day 43](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%20-%2043%20Rayleigh%20Distribution.ipynb)
+  [Day 44](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%20-%2044%20Pareto%20Distribution.ipynb)
+  [Day 45](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%20-%2045%20Zipf%20Distribution.ipynb)
 
 
 
