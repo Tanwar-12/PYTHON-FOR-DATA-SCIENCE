@@ -2,15 +2,14 @@
 ![100 DAYS OF PYTHON (1) (2)](https://github.com/Tanwar-12/100-Days-of-Python-/assets/110081008/4e0f879b-4a14-401e-ae91-e376d1c3ec0d)
 
 
-Welcome to my '100 Days of Python' challenge repository! Here, you can track my daily progress as I dive into the world of Python, starting from ground zero. Every day, I will engage with diverse Python concepts, undertake projects, and solve exercises. My journey of learning Python will unfold before you, day by day, as I document my experiences and progress.
+**Welcome to my '100 Days of Python' challenge repository! Here, you can track my daily progress as I dive into the world of Python, starting from ground zero. Every day, I will engage with diverse Python concepts, undertake projects, and solve exercises. My journey of learning Python will unfold before you, day by day, as I document my experiences and progress.**
 
-# 👨🏻‍🎓 Beginner
-## What to Anticipate
+# 👨🏻‍🎓 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫
+## 𝐖𝐡𝐚𝐭 𝐭𝐨 𝐀𝐧𝐭𝐢𝐜𝐢𝐩𝐚𝐭𝐞
+- **𝐃𝐚𝐢𝐥𝐲 𝐉𝐮𝐩𝐲𝐭𝐞𝐫 𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤𝐬**: 
+**Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These notebooks encompass code snippets, thorough explanations, and engaging exercises pertaining to the Python topics I'll be delving into on that particular day.**
 
-- **Daily Jupyter Notebooks**: 
-Explore Jupyter Notebook files (.ipynb) dedicated to each day's efforts. These notebooks encompass code snippets, thorough explanations, and engaging exercises pertaining to the Python topics I'll be delving into on that particular day.
-
-## Daily Progress
+## 𝐃𝐚𝐢𝐥𝐲 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬
 
 - [Day 1](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%201%20-%20Basics%20_of%20_Python.ipynb)
 - [Day 2](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day2%20-%20Operators%20in%20Python..ipynb)
