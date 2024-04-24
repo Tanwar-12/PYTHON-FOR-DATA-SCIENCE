@@ -56,6 +56,7 @@
   [Day 44](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%20-%2044%20Pareto%20Distribution.ipynb)
   [Day 45](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%20-%2045%20Zipf%20Distribution.ipynb)
   [Day 46](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2046%20-%20Numpy%20ufunc.ipynb)
+  [Day 47](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/DAY%20-%2047%20ufunc_Simple_Arithmetic..ipynb)
 
 
 
