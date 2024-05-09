@@ -58,6 +58,7 @@
   [Day 46](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%2046%20-%20Numpy%20ufunc.ipynb)
   [Day 47](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/DAY%20-%2047%20ufunc_Simple_Arithmetic...ipynb)
   [Day 48](https://github.com/Tanwar-12/100-Days-of-Python-/blob/main/Day%20-%2048%20PANDAS.ipynb)
+  [Day 49](https://github.com/Tanwar-12/100-DAYS-OF-PYTHON/blob/main/Day%2049%20-Pandas%20%20Data%20Cleaning..ipynb)
 
 
 ---
