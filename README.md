@@ -62,6 +62,7 @@
   [Day 50](https://github.com/Tanwar-12/100-DAYS-OF-PYTHON/blob/main/Day%2050%20-%20Scipy.ipynb)
   [Dy 51](https://github.com/Tanwar-12/100-DAYS-OF-PYTHON/blob/main/Day%2051%20-%20SciPy%20Optimizers.ipynb)
   [Day 52](https://github.com/Tanwar-12/100-DAYS-OF-PYTHON/blob/main/Day%2052%20-%20SciPy%20Sparse%20Data.ipynb)
+  [Day 53](https://github.com/Tanwar-12/100-DAYS-OF-PYTHON/blob/main/Day%2053%20-%20SciPy%20Graphs.ipynb)
 
 
 ---
