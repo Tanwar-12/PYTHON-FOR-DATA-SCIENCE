@@ -1,8 +1,7 @@
 
-![100 DAYS OF PYTHON (1) (2)](https://github.com/Tanwar-12/100-Days-of-Python-/assets/110081008/4e0f879b-4a14-401e-ae91-e376d1c3ec0d)
 
-
-**Welcome to my '100 Days of Python' challenge repository! Here, you can track my daily progress as I dive into the world of Python, starting from ground zero. Every day, I will engage with diverse Python concepts, undertake projects, and solve exercises. My journey of learning Python will unfold before you, day by day, as I document my experiences and progress.**
+**Welcome to my '
+ Python' challenge repository! Here, you can track my daily progress as I dive into the world of Python, starting from ground zero. Every day, I will engage with diverse Python concepts, undertake projects, and solve exercises. My journey of learning Python will unfold before you, day by day, as I document my experiences and progress.**
 
 # 👨🏻‍🎓 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫
 ## 𝐖𝐡𝐚𝐭 𝐭𝐨 𝐀𝐧𝐭𝐢𝐜𝐢𝐩𝐚𝐭𝐞
